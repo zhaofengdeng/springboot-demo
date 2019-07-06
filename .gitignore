@@ -1,1 +1,3 @@
 /target/**
+/mysql-create-all.sql
+/mysql-drop-all.sql
